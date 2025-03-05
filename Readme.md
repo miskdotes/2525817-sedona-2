@@ -2,7 +2,7 @@
 
 * Студент: [Корнилов Вадим](https://up.htmlacademy.ru/htmlcss-individual/2/user/2525817).
 * Наставник: [Зарина Собирова](t.me/pelmeshek211899).
-
+* Сайт: [Проект Седона](https://miskdotes.github.io/2525817-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
