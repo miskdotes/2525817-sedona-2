@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Зарина Собирова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2525817).
-* Наставник: `Неизвестно`.
+* Студент: [Корнилов Вадим](https://up.htmlacademy.ru/htmlcss-individual/2/user/2525817).
+* Наставник: [Зарина Собирова](t.me/pelmeshek211899).
 
 ---
 
