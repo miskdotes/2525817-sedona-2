@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Корнилов Вадим](https://up.htmlacademy.ru/htmlcss-individual/2/user/2525817).
-* Наставник: [Зарина Собирова](t.me/pelmeshek211899).
+* Наставник: [Зарина Собирова](https://github.com/Zarina2118/2525817-sedona-2).
 * Сайт: [Проект Седона](https://miskdotes.github.io/2525817-sedona-2/)
 ---
 
